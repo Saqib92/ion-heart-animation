@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/heart-animation-lib/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/heart-animation-lib/tsconfig.spec.json"
+    }
+]
 }
